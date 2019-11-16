@@ -21,6 +21,7 @@ public class FileController {
 
 	@RequestMapping("/toPage")
 	public String toPage() {
+		System.out.println("hhh1");
 		return "file/page";
 	}
 	
