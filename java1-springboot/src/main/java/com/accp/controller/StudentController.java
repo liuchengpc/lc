@@ -22,6 +22,7 @@ public class StudentController {
 	
 	@RequestMapping("/toPage")
 	public String toPage() {
+		System.out.println("dsjfoihewgberberebrerberbetetbo");
 		return "page";
 	}
 	
