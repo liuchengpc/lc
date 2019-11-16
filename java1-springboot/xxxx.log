@@ -1,0 +1,37 @@
+2019-11-12 16:58:41.061  INFO 44878 --- [restartedMain] com.accp.Java1SpringbootApplication      : Starting Java1SpringbootApplication on bogon with PID 44878 (/Users/tangyong/workspace/sts/java1-springboot/target/classes started by tangyong in /Users/tangyong/workspace/sts/java1-springboot)
+2019-11-12 16:58:41.061 DEBUG 44878 --- [restartedMain] com.accp.Java1SpringbootApplication      : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-12 16:58:41.061  INFO 44878 --- [restartedMain] com.accp.Java1SpringbootApplication      : No active profile set, falling back to default profiles: default
+2019-11-12 16:58:41.337  WARN 44878 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2019-11-12 16:58:41.355  INFO 44878 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-12 16:58:41.357  INFO 44878 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-12 16:58:41.358  INFO 44878 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-12 16:58:41.362  INFO 44878 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-12 16:58:41.362 DEBUG 44878 --- [restartedMain] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-11-12 16:58:41.362  INFO 44878 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 297 ms
+2019-11-12 16:58:41.474 DEBUG 44878 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2019-11-12 16:58:41.484 DEBUG 44878 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**] in 'resourceHandlerMapping'
+2019-11-12 16:58:41.497 DEBUG 44878 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-11-12 16:58:41.504 DEBUG 44878 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-11-12 16:58:41.566  INFO 44878 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-11-12 16:58:41.580  INFO 44878 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-12 16:58:41.581  INFO 44878 --- [restartedMain] com.accp.Java1SpringbootApplication      : Started Java1SpringbootApplication in 1.561 seconds (JVM running for 111.412)
+2019-11-12 16:58:41.584  INFO 44878 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-11-12 16:58:42.074  INFO 44878 --- [RMI TCP Connection(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-11-12 16:58:46.077  INFO 44880 --- [restartedMain] com.accp.Java1SpringbootApplication      : Starting Java1SpringbootApplication on bogon with PID 44880 (/Users/tangyong/workspace/sts/java1-springboot/target/classes started by tangyong in /Users/tangyong/workspace/sts/java1-springboot)
+2019-11-12 16:58:46.080 DEBUG 44880 --- [restartedMain] com.accp.Java1SpringbootApplication      : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-12 16:58:46.080  INFO 44880 --- [restartedMain] com.accp.Java1SpringbootApplication      : No active profile set, falling back to default profiles: default
+2019-11-12 16:58:46.130  INFO 44880 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-12 16:58:46.130  INFO 44880 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-12 16:58:46.975  INFO 44880 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-12 16:58:46.982  INFO 44880 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-12 16:58:46.983  INFO 44880 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-12 16:58:47.029  INFO 44880 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-12 16:58:47.029 DEBUG 44880 --- [restartedMain] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-11-12 16:58:47.029  INFO 44880 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 899 ms
+2019-11-12 16:58:47.337 DEBUG 44880 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2019-11-12 16:58:47.443 DEBUG 44880 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**] in 'resourceHandlerMapping'
+2019-11-12 16:58:47.467 DEBUG 44880 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-11-12 16:58:47.488 DEBUG 44880 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-11-12 16:58:47.671  INFO 44880 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-11-12 16:58:47.724  INFO 44880 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-12 16:58:47.727  INFO 44880 --- [restartedMain] com.accp.Java1SpringbootApplication      : Started Java1SpringbootApplication in 1.918 seconds (JVM running for 2.46)
